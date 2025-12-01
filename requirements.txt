@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+chromadb
+pandas
+tqdm
+python-dotenv
+requests
+streamlit
+pydantic
+numpy
